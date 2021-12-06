@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Branch Order summary card](https://github.com/IneMaroc/FrontendMentor-IneMaroc)
+- Solution URL: [Branch challenge1](https://github.com/IneMaroc/FrontendMentor-IneMaroc/tree/challenge1)
 - Live Site URL: [Add live site URL here](https://inemaroc.github.io/FrontendMentor-IneMaroc/)
 
 ## My process
